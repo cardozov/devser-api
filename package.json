@@ -1,0 +1,25 @@
+{
+  "name": "devser-api",
+  "version": "1.0.0",
+  "description": "Serviço Node que dá suporte ao blog DevSer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciusgcardozo/devser-api.git"
+  },
+  "keywords": [
+    "DevSer",
+    "blog",
+    "tecnologia",
+    "programação"
+  ],
+  "author": "Vinicius Goulart Cardozo <vinicius.gcardozo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viniciusgcardozo/devser-api/issues"
+  },
+  "homepage": "https://github.com/viniciusgcardozo/devser-api#readme"
+}
