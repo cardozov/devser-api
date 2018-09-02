@@ -1,2 +1,4 @@
 # devser-api
-Serviço Node que dá suporte ao blog DevSer
+API Restful Node + Express que tem por finalidade atuar como serviço BackEnd para o blog DevSer
+
+Mais informações em breve
